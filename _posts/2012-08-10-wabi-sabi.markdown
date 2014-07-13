@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "Wabi Sabi"
+date:       2012-08-10 12:09:09
+author:     geordee
+categories: thoughts
+tags:       
+---
+
+The Japanese world view of wabi-sabi is quite powerful. It allows us to accept imperfections, even better, to be open about imperfections. Whether it be sin, mortality or suffering imperfection is part of this world. Hardly anything man-made is perfect. Interestingly enough, I was browsing through the internet for some good chef's knives for my wife. I found Japanese knives to be highly rated, but not as attractive as the German ones. May be my naivety, but what struck me immediately is the form and aesthetics that follows function.
+
+I look at my creations, the stuff that I build at my work - mainly software. There are imperfections, and often there is an attempt to wrap those around with nicer elements. Imposing designs, imperfect implementations, and impressive case studies! Contrast it with wabi-sabi - restrained design, simple (and imperfect) implementations, and realistic case studies. That may not make sense to marketing, but it is gratifying (well! for me at least). One of the interesting aspect of wabi-sabi is that, if you make it a movement the essence will be lost. It is to be appreciated, assimilated and practiced, and that's all.

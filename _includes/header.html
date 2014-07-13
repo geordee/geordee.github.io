@@ -1,0 +1,17 @@
+<header>
+  <a href="{{ site.url }}">
+    <h1 class="logo">geordee</h1>
+  </a>
+  <div class="menubutton"><i class="fa fa-reorder"></i></div>
+  <nav>
+    <ul>
+      {% for page in site.pages %}
+        {% if page.title %}
+          <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+  </nav>
+  <br class="clear" />
+</header>

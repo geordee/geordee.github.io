@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "Beta"
+date:       2009-03-16 15:02:59
+author:     geordee
+categories: blog thoughts
+tags:       
+---
+
+Recently I built a website that used beta version of an open source software. Obviously, I ran into problems and I had to contact the community to get help. One response I got was that the software is in beta and should not be used in production. I replied back, "my site is in beta version too!"
+
+A lot of changes have taken place in the past few years. Traditionally software solutions were born in academic and research institutions and then brought to commercial and enterprise space. Once it is established it was adopted or made accessible to individual users or mass consumers. For example, email was born in research labs, which found its way into academic institutions and then to enterprises. Today it is accessible to everyone. Another example could be business intelligence and analytics which were researched in the academic world and found its way to enterprises. Today it is available to everyone in the form or different analytic applicaitons and tools such as Google Analytics.
+
+Coming back to the subject, it is a new world out there today. Innovations are now born is communities, who typically constitute of mass consumers. It is then matured and stablized in communities before enterprises adopt. It is a common practice to distribute beta releases early so that the software is well-tested and moreover understood by end-users.
+
+Strangely, academic institutions come last in the new world of software engineering. They tend to analyze how the solutions or phenomenon evolved, detect and understand patterns and provide best practices. Purists may question this widespread use of beta software and applications, and even term as a compromise to quality. But amateurs and beta are conquering new heights in online landscape.

@@ -1,0 +1,13 @@
+# Site settings
+title: geordee.com
+email: geordee@gmail.com
+description: "Personal Weblog"
+baseurl: ""
+url: "/"
+twitter_username: "geordee"
+github_username:  "geordee"
+
+# Build settings
+markdown:  kramdown
+permalink: "/:year/:month/:title"
+paginate:  10
