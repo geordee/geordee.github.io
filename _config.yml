@@ -11,3 +11,5 @@ github_username:  "geordee"
 markdown:  kramdown
 permalink: "/:year/:month/:title"
 paginate:  10
+plugins:
+  - jekyll-paginate
