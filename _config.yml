@@ -8,6 +8,7 @@ twitter_username: "geordee"
 github_username:  "geordee"
 
 # Build settings
+future: false
 markdown:  kramdown
 permalink: "/:year/:month/:title"
 paginate:  10

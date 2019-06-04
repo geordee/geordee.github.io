@@ -7,7 +7,7 @@ categories: blog thoughts
 tags:       
 ---
 
-[Howard Artrip](http://www.fastcompany.com/magazine/111/open_no-satisfaction.html "No Satisfaction at Toyota") – a manager in Toyota – knows what he does. He knows when he gets up, how long he takes to get ready and get to work. He smiles when he says "I've maximized my sleep time". Toyota's philosophy of continuous improvement is his personal statement.
+[Howard Artrip](https://www.fastcompany.com/58345/no-satisfaction-toyota "No Satisfaction at Toyota") – a manager in Toyota – knows what he does. He knows when he gets up, how long he takes to get ready and get to work. He smiles when he says "I've maximized my sleep time". Toyota's philosophy of continuous improvement is his personal statement.
 
 Sometime back, I was talking to an engineer from a highly capable and mature company about what he thinks about quality. At the end of a very colorful description about the practices and processes, he confessed that it is difficult to follow them all. It was a burden on him, and in his opinion an overhead to the system.
 

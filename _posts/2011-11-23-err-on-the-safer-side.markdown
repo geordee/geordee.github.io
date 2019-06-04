@@ -23,4 +23,4 @@ Earlier vendors were the ones keen to err on the safer side. Now the competition
 
 Is it acceptable to always err on the safer side? No. When the quality of output is of extreme important, I usually suggest to err on the safer side. Or, when the risks are clearly known it is acceptable to commit error - on the safer side, of course.
 
-Probably due to my education in Civil Engineering, I appreciate this better. We never mess with the [factor of _safety_](http://en.wikipedia.org/wiki/Factor_of_safety "Factor of Safety").
+Probably due to my education in Civil Engineering, I appreciate this better. We never mess with the [factor of _safety_](https://en.wikipedia.org/wiki/Factor_of_safety "Factor of Safety").

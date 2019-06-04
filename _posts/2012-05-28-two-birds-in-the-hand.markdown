@@ -7,7 +7,7 @@ categories: blog google
 tags:       
 ---
 
-Rarely I record thoughts or feelings that may change over time. I hardly write about a product or company. But this time, I feel compelled to write about Google and the way the Google way of getting things wrong. I just finished reading [an article on The Atlantic](http://www.theatlantic.com/technology/archive/2012/05/how-google-can-beat-facebook-without-google-plus/257480/ "How Google Can Beat Facebook Without Google Plus") confirmed my thoughts.
+Rarely I record thoughts or feelings that may change over time. I hardly write about a product or company. But this time, I feel compelled to write about Google and the way the Google way of getting things wrong. I just finished reading [an article on The Atlantic](https://www.theatlantic.com/technology/archive/2012/05/how-google-can-beat-facebook-without-google-plus/257480/ "How Google Can Beat Facebook Without Google Plus") confirmed my thoughts.
 
 I use most of Google's services pretty well, and my all-time favorite is Google Reader. I still wonder why there is no serious competition to Google Reader. Especially the way Google Reader clients are built on many platforms. But with Google+, they sure disappointed most of the Google Reader community. I hardly discover new feeds these days from Google's ecosystem. I use apps on almost every device I use to read the feeds, but none of those apps can share articles on Google+. I am reminded of the signs seen on food courts and restaurants - no outside food or drink allowed. Talk about walled gardens!
 

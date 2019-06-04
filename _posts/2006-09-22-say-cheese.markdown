@@ -13,4 +13,4 @@ Along with change comes the restraint to change – which is good. In life, the 
 
 Another aspect of change is the courage to change. First it requires courage to accept the situation, conquer the fear and destroy the barriers. Then it requires courage to accept the change and live with it. I guess this is where all the inspirational books and speakers concentrate – threatening us to make the move, preparing us to face the unknown. Just remember only this – courage is different from daring!
 
-[Everything flows, nothing stands still](http://en.wikiquote.org/wiki/Heraclitus "Quote by Heraclitus"). Change is inevitable. If you know your restraints well, if you have the courage to accept the change, you can always remain "Say Cheese!"
+[Everything flows, nothing stands still](https://en.wikiquote.org/wiki/Heraclitus "Quote by Heraclitus"). Change is inevitable. If you know your restraints well, if you have the courage to accept the change, you can always remain "Say Cheese!"
