@@ -4,7 +4,7 @@ title:      "Beat The System"
 date:       2013-09-03 14:08:22
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 As any social organisation evolves the tendency is to build systems that will further aid development and progress. The social organisation may be anything ranging from a country, a religion, a city, a company, a small project or even the internet. The systems, traditional processes, machines and automation works on repeatable activities making them more reliable, acceptable and predictable. In some cases the systems are enforced using policies, rules and restrictions and in other cases it is just recommended using values, guidelines or rituals.

@@ -4,7 +4,7 @@ title:      "Say Cheese!"
 date:       2006-09-22 14:34:33
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 A few years back, when the book _Who Moved My Cheese?_ was in the list of top-sellers, everyone talked about change frequently and daringly. Change is inevitable in the universe and life, that we all must be prepared to deal with. But all changes need not bring desirable results. Success of a change depends on the current situation, our knowledge on it, and the acceptation of it's results.

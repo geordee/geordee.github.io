@@ -4,7 +4,7 @@ title:      "Err on the Safer Side"
 date:       2011-11-23 14:30:14
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 Many years back, I was given an assignment to estimate a project. I put my best efforts to ensure that the estimates are as accurate as possible. Then I consulted with the manager, who was a veteran in the industry, well into his 60s.

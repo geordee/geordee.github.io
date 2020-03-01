@@ -8,8 +8,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 0;
@@ -20,7 +20,7 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 /* html5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
@@ -42,7 +42,7 @@ table {
 
 
 /* html elements */
-html { 
+html {
   overflow-y: scroll;
 }
 
@@ -152,7 +152,7 @@ input, textarea {
   .one.column,
   .one-third.column,
   .two-thirds.column
-  { 
+  {
     width: 100%;
     margin-bottom: 20px;
   }
@@ -261,7 +261,7 @@ button:hover {
   -webkit-transition:all .25s ease-in-out;
   -moz-transition:all .25s ease-in-out;
   -o-transition:all .25s ease-in-out;
-  transition:all .25s ease-in-out; 
+  transition:all .25s ease-in-out;
 }
 
 button:active {
@@ -674,7 +674,7 @@ button.links:hover {
 
   section, .post-image, .post-video {
     margin-left: 20px;
-    margin-right: 20px; 
+    margin-right: 20px;
   }
 
   section {

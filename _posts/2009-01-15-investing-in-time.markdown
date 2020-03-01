@@ -4,7 +4,7 @@ title:      "Investing in Time"
 date:       2009-01-15 15:02:14
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 Time is money. It's much more than that. Money if not invested shrinks over a period of time. Time vanishes.

@@ -4,7 +4,7 @@ title:      "Manufacturing Software"
 date:       2007-02-13 14:52:22
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 Various books about software engineering usually compares software development to manufacturing. The comparisons often highlight the differences so as to establish a separate set of processes and methodologies for software development. While it is true to a larger extent in the current scenario, the future of software development may blur the line between manufacturing goods and manufacturing software. What makes software unique could be the replicable nature of end products.

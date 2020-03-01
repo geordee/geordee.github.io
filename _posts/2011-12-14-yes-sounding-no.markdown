@@ -4,7 +4,7 @@ title:      "Yes Sounding No"
 date:       2011-12-14 17:14:11
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 "Yes! I will do. But..."

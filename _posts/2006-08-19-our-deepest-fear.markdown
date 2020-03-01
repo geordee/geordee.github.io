@@ -4,7 +4,7 @@ title:      "Our Deepest Fear"
 date:       2006-08-19 14:28:20
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 I saw the movie "Coach Carter" and am pretty impressed. The coach kept asking the tough rookie – "Cruz, what's your deepest fear?". At one point Cruz finds the answer:

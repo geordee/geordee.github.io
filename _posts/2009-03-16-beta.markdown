@@ -4,7 +4,7 @@ title:      "Beta"
 date:       2009-03-16 15:02:59
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 Recently I built a website that used beta version of an open source software. Obviously, I ran into problems and I had to contact the community to get help. One response I got was that the software is in beta and should not be used in production. I replied back, "my site is in beta version too!"

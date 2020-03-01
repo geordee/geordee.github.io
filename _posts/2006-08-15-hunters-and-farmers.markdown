@@ -4,7 +4,7 @@ title:      "Hunters & Farmers"
 date:       2006-08-15 14:26:14
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 In a recent newsletter, Jim Womack from Lean.Org has mentioned the hunters/farmers concept in sales, and encouraged the farmers in a lean organization. For the people who have not heard about hunters & farmers, hunters are the aggressive sales people who's interest is in getting sales higher and faster for the moment. While farmers can be quite future-minded, nurturing the customers, slowly building them up to a long term relationship.

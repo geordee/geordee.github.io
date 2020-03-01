@@ -4,7 +4,7 @@ title:      "Misconceptions"
 date:       2018-11-05 08:02:44
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 One day, I asked my friend to take a video of my swimming. Later we analyzed it over a coffee. We found that my right hand was quick to return and not "flying" over the water. So, next day, I fixed it. Consciously, I made my right hand do what my left hand did, except it was wrong. When the swimming coach arrived, he was wondering how I lost the technique so fast.

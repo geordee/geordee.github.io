@@ -4,7 +4,7 @@ title:      "As Late As Possible"
 date:       2008-02-29 14:58:44
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 The early bird gets the worm! Common wisdom suggests to get things done as early as possible. Everyday I see people – tuned to this wisdom – rushing on the road, into the elevators, around the vending machines, fretting and fidgeting about the seconds lost. I used to have a manager who was obsessed about every minute in the schedule which ultimately caused huge reworks and led to exhaustion of the team in all sense.

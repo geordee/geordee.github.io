@@ -4,7 +4,7 @@ title:      "Skills, Endurance & Performance"
 date:       2018-11-25 10:14:21
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 While starting to learn swimming, I could not even cross the short side of the pool. Once I learned the skills it became easier. Crossing the pool along the length was a distant dream.

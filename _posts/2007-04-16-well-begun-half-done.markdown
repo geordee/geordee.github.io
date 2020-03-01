@@ -4,7 +4,7 @@ title:      "Well Begun, Half Done"
 date:       2007-04-16 14:53:20
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 It is a very old saying of Aristotle – _well begun is half done_. We find this true in many fields, especially when it comes to accomplish a certain goal – whether it is in studies, sports or projects.

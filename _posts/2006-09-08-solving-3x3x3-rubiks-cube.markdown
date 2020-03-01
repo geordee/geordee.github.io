@@ -4,7 +4,7 @@ title:      "Solving 3 x 3 x 3 Rubik's Cube"
 date:       2006-09-08 23:45:30
 author:     geordee
 categories: blog
-tags:       
+tags:
 ---
 
 Sometime back, I was searching in the Wide Web World for an easy-to-understand solution for Rubik's cube. I found many, but none worked out for me. Finally my friends helped me out to solve it. As I got help from many, I started jotting down the moves and thought I will write those down for the benefit of others. That was the first version of this article.
@@ -34,7 +34,7 @@ When the first layer is done it forms a T with the center pieces in the middle l
 
 The following formula will move the cube RD to FL. First, find out which cube fits into FL and position it in RD. Make sure it is positioned as RD, not DR.
 
-> Formula 1  
+> Formula 1
 > To move RD to FL :::: L D' L' D' F' D F
 
 For the first timers, it is better to write down what is on the RD and DR, and do the steps. Then find out what happened to the piece. Remember, you should not change the orientation of the cube while doing the steps.
@@ -49,7 +49,7 @@ After two layers are completed it is advised to turn the cube upside down to get
 
 Once you find an L shape you need to convert it to a line. And the same formula will convert the line into a cross. Starting with the L shape, first position the shape such that it forms between UR, UF and the center piece.
 
-> Formula 2  
+> Formula 2
 > To get a cross on the third layer :::: B L U L' U' B'
 
 If you had the L shape now it is gone, and you got the line between UR – Centerpiece – UL. Repeat the formula to complete the cross.
@@ -60,19 +60,19 @@ Now position the cross such that the edge pieces are matching with the other lay
 
 Let's position the incorrect pieces on UF and UR for the third formula. Before doing the third formula, we need to be careful, because the third formula is presented in a reusable manner for memorizing. That necessitates to do an extra step before the third formula is applied. Once the UL and UB pieces are correct (i.e., UF and UR pieces are incorrect), quarter turn the U face clockwise, so that UF'looks' correct. This is very important and often forgotten.
 
-> Formula 3  
+> Formula 3
 > To swap the incorrect edge pieces :::: R U R' U R U2 R'
 
 By now all the edge pieces are correct, and the corner pieces needs to be solved. If you look carefully, one of the corner pieces may be in its right position, but not aligned correctly. We need it for the next step. If none of the corner pieces are in its position simply follow the next formula, and you can find one falling into position (the alignment may be wrong) and do the formula again to correct others. The formula cycles three corner pieces in clockwise direction. It means, UBR will go to UFR, UFR will move to UFL and UFL will go to UBR. Notice that UBL remains as it is. So the correctly positioned corner piece should be on UBL while other three pieces move in clockwise direction to take their places.
 
-> Formula 4  
+> Formula 4
 > To cycle three corner pieces :::: R' U L U' R U L' U'
 
 After cycling enough, the corner pieces take their position, and may be misaligned. If two adjacent corner pieces are aligned properly, you are lucky. But if two opposite pieces are aligned properly, you have to break one of those. How sad!
 
 The last and longest formula will solve the cube. This formula should be applied in such a way that when the little face RUF will become UFR (or rotates anticlockwise in its position) the piece will be solved. This is important. To reiterate, hold the cube such that the corner piece will be correctly aligned when RUF turns to UFR. It is also to be noted that this formula works with two corner pieces. So if you rotate RUF, RLF will also rotate. Now, if you do not find any piece that will satisfy the condition that when RUF becomes UFR the corner piece will be aligned, just do the next formula once, and you will find a piece satisfying the condition.
 
-> Formula 5  
+> Formula 5
 > To rotate the corner piece RUF to UFR :::: R' U2 R U R' U R L U2 L' U' L U' L'
 
 Repeat the formula and rotate the pairs of unsolved corners such that when RUF becomes UFR the RUF (UFR) corner piece is correctly aligned, until THE CUBE IS SOLVED.

@@ -4,7 +4,7 @@ title:      "Order or Chaos?"
 date:       2006-06-24 08:46:45
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 It is astonishing if you look at the orderliness in physics and in the applicability of the laws of physics. Order and discipline are also considered as a desirable quality in human life.

@@ -4,7 +4,7 @@ title:      "Mathematical Models"
 date:       2012-03-15 08:38:59
 author:     geordee
 categories: thoughts
-tags:       
+tags:
 ---
 
 We live with mathematical models all around us, whether we realize it or not. We apply them at work as if those are deterministic formulae. One such approach is the application of normal distribution which is a common choice for modeling large number of independent or random variables.

@@ -4,7 +4,7 @@ title:      "In A Familiar Place"
 date:       2018-10-28 17:05:11
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 It was time to deal with the deep end of the pool as part of my swimming lessons. There was a fear inside, a sinking feeling!

@@ -4,7 +4,7 @@ title:      "The Coldest Hour"
 date:       2012-03-23 01:59:54
 author:     geordee
 categories: thoughts
-tags:       
+tags:
 ---
 
 I have got a new weather app. It is so well-designed that I do not mind checking it daily. One of the features I like is the hourly track of temperature for 36 hours. After getting used to it for a while, I started noticing the daily patterns in temperature.

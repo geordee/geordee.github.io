@@ -4,7 +4,7 @@ title:      "Circle of Trust"
 date:       2006-09-16 14:29:33
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 Since I joined the Orkut community, I have been noticing a lot of hits coming to this site from Orkut. I couldn't help, but thinking and searching about Orkut.

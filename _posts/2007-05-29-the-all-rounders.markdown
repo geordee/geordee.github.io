@@ -4,7 +4,7 @@ title:      "The All-rounders"
 date:       2007-05-29 14:56:07
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 As today's professional world is adopting a knowledge-intensive culture, it is tough to find a right combination that covers the depth and the breadth of a specific area of knowledge. Conventionally, we relied on deep, explicit, documented knowledge as in the case of research and development projects. But in recent times knowledge acquisition has become broader because of mainly two reasons.

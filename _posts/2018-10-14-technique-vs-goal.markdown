@@ -4,7 +4,7 @@ title:      "Technique vs. Goal"
 date:       2018-10-14 10:07:00
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 Recently I started taking swimming lessons. It was about learning something new, and achieving something extraordinary.

@@ -4,7 +4,7 @@ title:      "Value Addition"
 date:       2007-04-18 14:54:37
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 [Howard Artrip](https://www.fastcompany.com/58345/no-satisfaction-toyota "No Satisfaction at Toyota") – a manager in Toyota – knows what he does. He knows when he gets up, how long he takes to get ready and get to work. He smiles when he says "I've maximized my sleep time". Toyota's philosophy of continuous improvement is his personal statement.

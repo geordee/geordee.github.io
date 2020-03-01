@@ -4,7 +4,7 @@ title:      "Two Birds in the Hand..."
 date:       2012-05-29 00:59:22
 author:     geordee
 categories: blog google
-tags:       
+tags:
 ---
 
 Rarely I record thoughts or feelings that may change over time. I hardly write about a product or company. But this time, I feel compelled to write about Google and the way the Google way of getting things wrong. I just finished reading [an article on The Atlantic](https://www.theatlantic.com/technology/archive/2012/05/how-google-can-beat-facebook-without-google-plus/257480/ "How Google Can Beat Facebook Without Google Plus") confirmed my thoughts.

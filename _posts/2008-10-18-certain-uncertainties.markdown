@@ -4,7 +4,7 @@ title:      "Certain Uncertainties"
 date:       2008-10-18 14:59:24
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 It has been a long time since I posted last. These were busy days with a lot of changes happening in the personal and work lives. I have written about changes earlier, but this time I observed something different. A change unsettles, it creates uncertainty, ambiguity and at the core of it these uncertain, ambiguous times and situations makes people difficult to accept change.

@@ -4,7 +4,7 @@ title:      "Walk Through"
 date:       2012-03-21 00:00:22
 author:     geordee
 categories: thoughts
-tags:       
+tags:
 ---
 
 I always fancied the world of architecture. No, not the software architecture, the real one. While I admire the work of architects, my training as a civil engineer prompts me to look critically into the possibilities and feasibilities of architectural creations.

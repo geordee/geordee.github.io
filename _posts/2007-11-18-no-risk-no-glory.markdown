@@ -4,7 +4,7 @@ title:      "No Risk, No Glory!"
 date:       2007-11-18 14:58:05
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 During a recent discussion on risk management, I suddenly realized that we tend to see risks too negatively. We were trying to enumerate risks and it was easy for everyone to come up with negative risks (threats) and not so in exploring positive risks. May be we do not want to call it risks; we prefer the word opportunities – it sounds a lot more positive.

@@ -4,7 +4,7 @@ title:      "Layered Knowledge"
 date:       2011-10-21 13:21:41
 author:     geordee
 categories: thoughts
-tags:       
+tags:
 ---
 
 The world's knowledge is layered.

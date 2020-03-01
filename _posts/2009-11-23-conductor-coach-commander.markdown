@@ -4,7 +4,7 @@ title:      "Conductor, Coach, Commander"
 date:       2009-11-23 15:07:57
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 There is a difference between Information Technology (IT) and established industries in terms of maturity in operations. Producing IT outputs is still treated as a knowledge-intensive activity, while in other industries the production is labor-intensive. IT is slowly moving from knowledge-intensive to labor-intensive, and innovations such as software factory model are trying to replicate the best practices of labor-intensive operations in IT projects and operations. However, not all areas in IT are ready to adapt the best practices of labor-intensive industries. One such area is project management.

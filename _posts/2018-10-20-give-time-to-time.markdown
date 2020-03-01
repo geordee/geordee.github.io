@@ -4,7 +4,7 @@ title:      "Give Time to Time"
 date:       2018-10-20 08:34:21
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 It took me a couple of weeks and four classes to follow the instructions on swimming techniques.  I had to keep these techniques intact while learning something new after that. It was tough. I hadn't converted the skills into muscle-memory. It was hard to manage two things at a time.

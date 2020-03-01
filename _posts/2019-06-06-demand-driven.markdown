@@ -4,7 +4,7 @@ title:      "Demand Driven"
 date:       2019-06-06 20:25:11
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 Traditional retail businesses are supply driven. Every retail business deal with the domain of supply chain. It makes sense when the constraints are at the supply side. Constraints in production, distribution and inventory. When we optimize the constraints in supply chain, the constraints move to the demand side. The need then arises to track, analyze and improve the demands.

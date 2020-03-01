@@ -4,7 +4,7 @@ title:      "Architecture"
 date:       2009-11-06 15:06:11
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 Years ago, I architected a house. Being a Civil Engineer by qualification architecture is something that I was always fascinated with. Today I architect software, at least that's what they say I do.

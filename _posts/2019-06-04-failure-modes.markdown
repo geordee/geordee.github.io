@@ -4,10 +4,10 @@ title:      "Failure Modes"
 date:       2019-06-04 12:22:38
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
-Over-reinforced sections and under-reinforced sections. An over-reinforced beam fails suddenly and explosively, while an under-reinforced beam fails gradually and visibly. This has fascinated me during my college days, and I apply these principles in many ways at work. 
+Over-reinforced sections and under-reinforced sections. An over-reinforced beam fails suddenly and explosively, while an under-reinforced beam fails gradually and visibly. This has fascinated me during my college days, and I apply these principles in many ways at work.
 
 One of the adaptations is to deliberately under-engineer the systems, which in turn shows the weak areas. For example, a system with high computing power may mask the weaknesses of software design, until it is too late.
 

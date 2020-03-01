@@ -4,7 +4,7 @@ title:      "Time and Talent"
 date:       2007-07-14 14:56:57
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 The two basic questions in any project/task are – are we doing it in time, using the estimated/allocated effort? Most of the important metrics are then derived out of these parameters – time & talent, as I like to call it. Time & talent are curiously unique while being the very basic parameters of any project.

@@ -4,7 +4,7 @@ title:      "Qualify Qualitatively"
 date:       2007-01-16 14:46:43
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 Quality is one of the evergreen topics for discussion in business world. I attended yet another session on quality a few days back and that made me think a bit deeper – more on concept and perceptions. Our instructor described quality as conformance to requirements and fitness for use, the common definitions from Philip Crosby and Joseph Juran. Next, our instructor mentioned that the need for quality is to survive in competition and to get repeat business – with heavy overtones from sales and marketing.

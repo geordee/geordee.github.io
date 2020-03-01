@@ -4,7 +4,7 @@ title:      "Relaxed At Work"
 date:       2018-10-16 14:12:38
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 Further into my swimming lessons, there was another important lesson to learn. It is to relax in the midst of all the pulling, kicking, and treading water.

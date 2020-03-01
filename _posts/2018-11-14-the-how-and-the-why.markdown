@@ -4,7 +4,7 @@ title:      "The How and The Why"
 date:       2018-11-14 22:54:38
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 Relax! the swimming coach shouted. I did not know how. I struggled to breathe, kick, pull and coordinate everything together. It was more difficult when I had to pull. I did not know why!

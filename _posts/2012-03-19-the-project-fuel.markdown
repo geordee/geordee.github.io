@@ -4,7 +4,7 @@ title:      "The Project Fuel"
 date:       2012-03-19 23:59:21
 author:     geordee
 categories: thoughts
-tags:       
+tags:
 ---
 
 At times, I think of managing a project as driving a car. The size of the project is the distance to cover, time is time, and effort is the fuel in the tank. The faster we do the work - the faster the fuel burns - the faster we reach the destination. Of course, provided we are traveling in the right direction.

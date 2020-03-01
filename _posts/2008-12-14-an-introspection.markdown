@@ -4,7 +4,7 @@ title:      "An Introspection"
 date:       2008-12-14 15:00:27
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 Here is Google's Marissa Mayer, [how she went on building her team](https://techcrunch.com/2008/12/10/marissa-mayers-simple-advice-on-who-to-hire-smart-people-who-get-things-done/ "Marissa Mayer's Simple Advice On Who To Hire: Smart People Who Get Things Done"). "I like to hire people who have two traits. They're smart, and they get things done."

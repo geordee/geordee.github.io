@@ -4,7 +4,7 @@ title:      "Systems Approach"
 date:       2007-01-11 14:45:06
 author:     geordee
 categories: blog reading
-tags:       
+tags:
 ---
 
 Currently I am reading a book named [Long-Range Forecasting – From Crystal Ball To Computer](https://books.google.co.in/books?id=7DAcAAAAIAAJ "Long-Range Forecasting: From Crystal Ball to Computer") (LRF). The author – [J Scott Armstrong](https://marketing.wharton.upenn.edu/profile/jscott/ "J Scott Armstrong") – begins by introducing a simple idea which he calls systems approach as the first lesson to be learned in forecasting. The approach is an elementary technique for analysis and planning. Many such important techniques in management have been known for decades or even centuries. We keep reinventing, repackaging and reselling!!!

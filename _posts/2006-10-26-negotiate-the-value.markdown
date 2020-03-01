@@ -4,7 +4,7 @@ title:      "Negotiate the Value"
 date:       2006-10-26 14:38:24
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 One of the confounding terms in the business world is value. Outside the business world the term poses difficult questions to philosophers, economists, religious thinkers in the sense it matters to them. One of the main challenges is to define whether the value of an object/service is absolute or relative. For example, neoclassical economists perceive value as relative while classical folks try to measure it as innate worth, and an objectivist acknowledges the worth, but play it down with reason.

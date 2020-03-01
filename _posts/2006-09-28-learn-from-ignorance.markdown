@@ -4,7 +4,7 @@ title:      "Learn from Ignorance"
 date:       2006-09-28 14:36:37
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 What prompts a person to learn? I have been trying to find an answer, especially in the context of work. For many, once out of educational system, learning becomes almost a matter of choice. The biggest hurdle in making this choice is the refusal to accept ignorance. We have built a culture around us where ignorance is considered a shame.
