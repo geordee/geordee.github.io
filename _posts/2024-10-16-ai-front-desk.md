@@ -1,0 +1,29 @@
+---
+layout:     post
+title:      "AI Front Desk"
+date:       2024-10-16 21:34:20
+author:     geordee
+categories: blog thoughts
+tags:
+---
+In 1995, I got my first email id. And we had access to the world wide web. We were browsing the internet on dumb terminals without a mouse, using a browser called Lynx. The Internet was a place where we go to read random stuff and kill time.
+
+One of the first technology transformations I witnessed and experienced was Dotcom in the 2000s. Everyone built websites for just about everything - for business, shops, people, pets - even the toasters were tweeting. By the end of the decade, we had some best practices around building and hosting websites, user interface guidelines and libraries. Enterprises had multiple websites and web applications - a public website, customer portals, intranet, extranet, web ERPs etc. Initially everything ran differently - different domains, servers, hosting, security and so on. Soon we learned to consolidate the experience - using consistent brand identity, user interface patterns, directory listings, sitemaps, mega-menus, subdomains. Once the user visits the main website, it is linked to all the other offerings and sites. And we bookmarked the directory page, or we bookmarked every page. You can still see the pattern in both Microsoft Office 365 and Google Workspace - those 9 dots arranged in a square reveal the directory of products and services.
+
+> You can still see directory pattern in both Microsoft Office 365 and Google Workspace - those 9 dots arranged in a square reveal the directory of products and services.
+
+In the 2010s we started the wave of digital transformations. We were into a world of automation. Slowly the products and services that were offered over user interfaces (i.e., web pages) gave way to programmatic interfaces (i.e., APIs). Initially APIs were considered as a method of integrating systems behind the scenes. But digital transformation inverted that. Business adopted technology and technology became business. Products and services were exposed as APIs so that users may choose how to consume. Social media APIs enabled a revolution in mobile apps, tracking trends, news media - all powered by feeds and APIs. It enabled people to build tailored products and experiences. Again, large enterprises had many different APIs, or groups of APIs - for their customers, partners, suppliers, internal users and systems. APIs were governed using API Management Platforms, exposed via API Gateways and catalogued & documented in Developer Portals.
+
+In the 2020s we are moving towards a Generative AI revolution. The first marked characteristic of Generative AI is the use of natural language and chatbots, which itself is a change in user experience and interaction. But the most significant change is the way we interact with technology. Generative AI brings down the barrier of user interfaces and programmatic interfaces. When we write an email, we have to find the field for "To:" and fill in the sender email id, write the subject in the subject field and message in the body. It is a simple user interface, and it has become quite intuitive and natural to all. Now consider navigating through menus, finding a service, reading through prerequisites, filling a form and waiting for an outcome. This is the process of doing transactions on the Internet with varying degrees of complexities - from ecommerce transactions to tax filings.
+
+A well-thought-out GenAI-assisted solution can make this process much easier, guiding the customer through the process and most importantly asking only the relevant questions and collecting and collating information in a natural sequence. We call this pattern known as agents or assistants. The interface for Generative AI can be called an "Agent Interface"; or more simply, a conversational interface or a natural language interface.
+
+We already deal with such interfaces using ChatGPT or Gemini which answers a wide range of questions we ask. For such solutions we read or review the response and assess whether it is fit for purpose in our context. Oftentimes, we interpret or validate the results within our context or some expert knowledge we possess. We are the humans in the loop, and when it aligns with our expectations, it feels magical too. This makes us think one big AI chatbot could handle everything. Unfortunately, that's not the most efficient solution.
+
+> In business, we cannot always rely on the customer to understand or check the AI’s answers. Customer is not a human in the loop for Generative AI.
+
+In business, we cannot always rely on the customer to understand or check the AI’s answers. Customer is not a human in the loop for Generative AI. We need to instruct the AI model to act as an expert and augment its knowledge with domain, organisation or process knowledge. So, we might need different AI agents for different tasks like product information, sales, after sales support and so on. And we end up with a similar problem from earlier eras - more than one website or web applications, APIs, and the solutions to tie things together - directories and gateways and portals.
+
+There is already an answer from all leading providers - i.e., multi-agent orchestration. I imagine it to be like a front-desk, much like a person who receives the customer, finds the reason for contact, and routes to the most appropriate department. An agent front-desk would build a transparent interface to access specialised agents - without the bookmarks, directories, gateways and portals.
+
+Today the agent orchestration is quite siloed within each Generative AI platform. We hope for a future where AI agents work together seamlessly across platforms without any cognitive overload to users.
