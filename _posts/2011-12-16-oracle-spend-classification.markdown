@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "Oracle Spend Classification"
+date:       2011-12-16 10:09:23
+author:     geordee
+categories: bi data-mining
+tags:
+---
+
+As information technology progresses, computers become more capable to perform activities which requires not just basic binary logic, but approximation, correlation and prediction. Such implementations help us teach computers to perform large and complex tasks which otherwise require an intelligent supervision. In common technological parlance, this is known as machine learning or knowledge discovery. In relation with data warehousing, we know this as data mining, which is a prominent technique for knowledge discovery.
+
+In large organizations controlling expenses is as important as making profits. Procurement and Spend Analytics is therefore an important area for analysis and business intelligence in large organizations. One of the challenges in spend analytics is to classify the spend transactions fairly well, accurate if possible. The classification of spend is usually done at the point of data entry itself. Think of expense report entry in your organization. However, these entries may not always reflect the true picture, especially when it comes to large scale sourcing, administrative, selling and general expenses. Sometimes, it may be necessary to view the spend in a different perspective during analysis. For these reasons, large organizations used to reclassify the spend data after aggregating from various geographies and sources. Some years back such reclassification used to be a tedious manual process, or even a highly complex if-else chain.
+
+As we discussed earlier, machines are now becoming capable of learning and discovering knowledge. With large amounts of data at disposal for mining, machines can derive patterns which are otherwise not visible, and continuously optimize the learning process. One such class of algorithms is classification, which differentiates items between one class and another. This should be contrasted with clustering, which puts items into groups or clusters.
+
+Oracle has built a product called Spend Classification, which can be used as an add-on to Oracle BI Apps Procurements and Spend Analytics. It uses Oracle Data Mining features to implement the classification logic.
+
+'Oracle Spend Classification enables automated classification of spend transactions - essentially AP Invoices, Purchase Orders and Purchase Requisitions. The application wraps a mining algorithm called Support Vector Machine with a workflow created using Oracle ADF and OBIEE.
+
+A classification scheme – taxonomy – is at the heart of Spend Classification application. It is essentially a list of classes where the spend transactions should get classified into.
+
+The first activity in the Spend Classification workflow is to train the machine (application). Training involves selecting a representative data set, manually classifying those and feeding to the application so that it can save it as learning - a probabilistic model - for future use. This model is not a set of conditional structures based input data, but essentially the factors, coefficients and constants. Conditions and truth tables work perfectly when the input data is given again. A probabilistic model works imperfectly on a wide range of data which is similar to the input data given from training. Thus, we are able to get transactions classified, which were not part of original input, with a fair degree of accuracy. This model is then saved into data mining tables, and known as knowledge-base.
+
+The next activity is to test the classification. We now can feed the application transactions that need to be classified. As mentioned earlier, these transactions may or may not include the ones that were used for training. This is where the data mining algorithms differ from if-else conditions. Classifications using if-else conditions are deterministic, it is either-or. Data mining algorithms are probabilistic, and due to this reason it handles scenarios that were not encountered before, or not explicitly coded in, but having some similarities to earlier learnings. We then evaluate the test results and confirm the correct classification or modify the wrongly classified records. The application uses such confirmations and corrections as further learning opportunities. It then applies the confirmed results to transactions in a different set of fields, so that the original classification is not overwritten.
+
+Over time the accuracy of classification improves and machines starts classifying the transactions correctly, with better accuracies. Does that mean there will be wrongly classified records in the system? The answer is yes, there will be some records which may not be classified correctly. For example, when spend classification classifies records with 80% confidence, from the application's point of view there are 20% records which may not be correctly classified. Observe how I use the word _may_ everywhere. This is because that 20% may contain 10% records with accurate classification, but the application is not confident enough. Or the confidence factor set by us is higher than the the score for that record.
+
+Nevertheless, there are wrongly classified records. Not all business scenarios require 100% accurate analysis. If the objective is operational, we look at one record at a time, and we may require exact classification for every record. If the objective is strategic, we need a fair idea of how things are, and often require a reasonably accurate approximation, trading a bit of accuracy with analysis time. Spend Classification suits well in such scenarios. And it works at blazing speeds compared to manual process!
