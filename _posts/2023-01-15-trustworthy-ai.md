@@ -32,7 +32,7 @@ In 2023, AI can be a great aid to the research of legal support and arguments. A
 
 As we take another generational leap in both humanity and technology, we need to rethink how we want to organize as a society and frame our values and laws, which are ethical and robust and most importantly machine-comprehensible.
 
-### Postscript
+##### Postscript
 
 Creators work with raw materials and use tools to shape the creations. Potters work with clay, and they use a potter's wheel, knives and wires to shape the clay. Writers work with words and use paper, pen or keyboard as tools. When AI and Natural Language Processing were gaining traction, my understanding was that it is a tool that will help us shape ideas and content, just how Google Docs is helping me write this article.
 

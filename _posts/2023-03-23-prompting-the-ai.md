@@ -24,7 +24,7 @@ As we progress into building more domain-specific large language models, we woul
 
 Though the intent of large language models is to be “generative”, the emergent capabilities may include unexpected applications into even “predictive” aspects.
 
-### Prompting the AI
+##### Prompting the AI
 
 While experimenting with this idea, I tried various products - through computer vision and ChatGPT. One of the photos was of an Apple Pencil. The computer vision API identified it as “packaged goods”, probably because of the CE marking on the pencil. However the labels included, “office supplies”, “communication device”, “gadget”, “pen” with over 60% confidence.
 

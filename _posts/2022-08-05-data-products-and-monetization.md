@@ -7,14 +7,14 @@ categories: blog thoughts
 tags:
 ---
 
-### The Gap
+##### The Gap
 
 Data is the new gold or oil. Data can be stored in a reservoir and has the potential to generate value. Such are the analogies on data and its uses. The value of data is real, but the realization is hard. Oftentimes, the attempts to monetize data end up in spending more money with little tangible results. In fact, the answer might be there in those analogies, if we are willing to extend those a bit more.
 
 Data is produced through transactions - buying and selling goods, performing services, or documenting facts. Transactions store data for reasons such as record-keeping, business reporting or legal compliance. Those reasons do not necessarily optimize data for monetization, but for efficient storage, access, and presentation. For selling data it needs to be processed, packaged, marketed, and distributed as a product. This is usually the gap in many data monetization initiatives.
 
 
-### The Product
+##### The Product
 
 Once we recognize that data needs to be packaged as a sellable product, we can apply a lot of best practices from manufacturing, distribution, and retail domains.
 
@@ -31,7 +31,7 @@ Once the product is developed, launched, and made available for distribution, it
 A good data monetization platform should also track and meter the usage and consumption of data to plan, price and invoice the customers.
 
 
-### The Lifecycle
+##### The Lifecycle
 
 Products and packages improve or evolve over time. The transactional systems producing data also evolve and expire. The consumers and market demands change too. These forces an ongoing evolution of the offering of data product. Now, this can be compared to a typical product lifecycle management process.
 
