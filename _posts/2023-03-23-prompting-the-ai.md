@@ -44,7 +44,7 @@ I had to stitch two AI solutions to create a solution, and a bit of work involve
 
 It would be interesting to see where all these lead us. We took a leap when we transitioned from paper tapes to interactive command-line, and another large leap to graphical user interfaces. With the advancements in technology to comprehend conversations, images and objects we are poised to enter the next era in technology.
 
-#### Postscript:
+##### Postscript:
 
 ChatGPTs answers are not concise, as its response tend to be a bit verbose. One needs a parser to extract information, at least the way it is presented now.
 I have also found that ChatGPT gives slightly different every time the same question is asked to retrieve HS Code. This introduces an additional error on ChatGPT's response.
