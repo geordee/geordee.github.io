@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Data Products and Monentization"
+title:      "Data Products and Monetization"
 date:       2022-08-05 16:42:01
 author:     geordee
 categories: blog thoughts
