@@ -21,4 +21,4 @@ This is also why smaller, context-aware models may lead the way. They do not dem
 
 There is a trigger to all this. Governments have begun to signal who may access the most capable models. Once a government starts controlling a resource (such as a refined, state-of-the-art model) others are forced to consider their own.
 
-We are watching a global supply chain take shape in real time, with all the familiar tensions of resource, refinement, and sovereignty - only this time the raw material is us, our words, our actions and our lives. For now, the practical thing to do is to wait and watch.
+We are watching a global supply chain take shape in real time, with all the familiar tensions of resource, refinement, and sovereignty - only this time the raw material is us, our words, our actions and our lives.
