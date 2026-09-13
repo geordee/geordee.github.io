@@ -10,6 +10,7 @@ github_username:  "geordee"
 # Build settings
 markdown:  kramdown
 permalink: "/:year/:month/:title"
+timezone:  Europe/London
 paginate:  10
 plugins:
   - jekyll-paginate

@@ -2,7 +2,7 @@ name: Build and deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
   workflow_dispatch:
 
 # Allow GITHUB_TOKEN to deploy to Pages
