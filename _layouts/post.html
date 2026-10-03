@@ -5,7 +5,7 @@ layout: master
 <section>
   <div class="eight columns">
     <h4 class="post-title"><a>{{ page.title }}</a></h4>
-    <a href="/archives/"><span class="post-date">{{ page.date | date: "%b %-d, %Y" }}</span></a>
+    <a href="/archives/"><time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time></a>
 
     <article class="post-content">
     {{ content }}

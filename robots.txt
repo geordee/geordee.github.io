@@ -1,0 +1,9 @@
+---
+layout: none
+permalink: /robots.txt
+---
+# Search engines and AI crawlers are welcome to index this site.
+User-agent: *
+Allow: /
+
+Sitemap: {{ site.url }}/sitemap.xml

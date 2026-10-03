@@ -7,6 +7,20 @@ url: "https://geord.ee"
 twitter_username: "geordee"
 github_username:  "geordee"
 
+# Author and profiles, used for structured data (JSON-LD) and llms.txt
+author:
+  name: Geordee Naliyath
+  url: https://geord.ee/about/
+  bio: "Personal weblog of Geordee Naliyath, a technology enthusiast, writing since 2006 on software engineering, architecture, data, and AI."
+twitter:
+  username: geordee
+  card: summary
+social:
+  links:
+    - https://www.linkedin.com/in/geordee
+    - https://github.com/geordee
+    - https://twitter.com/geordee
+
 # Build settings
 markdown:  kramdown
 permalink: "/:year/:month/:title"
@@ -14,3 +28,5 @@ timezone:  Europe/London
 paginate:  10
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap

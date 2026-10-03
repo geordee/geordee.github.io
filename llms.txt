@@ -1,0 +1,21 @@
+---
+layout: none
+permalink: /llms.txt
+---
+# {{ site.title }}
+
+> {{ site.description }}
+
+{{ site.author.bio }}
+
+Every post is also available as plain markdown by adding `.md` to its URL, and the full text of all posts is in [llms-full.txt]({{ site.url }}/llms-full.txt).
+
+## About
+
+- [About]({{ site.url }}/about/): Who {{ site.author.name }} is
+- [Archives]({{ site.url }}/archives/): Every post, by year
+- [RSS feed]({{ site.url }}/feed.xml): The latest posts
+
+## Posts
+{% for post in site.posts %}
+- [{{ post.title }}]({{ site.url }}{{ post.url }}.md): {{ post.date | date: "%Y-%m-%d" }}. {{ post.excerpt | strip_html | strip_newlines | truncatewords: 30 }}{% endfor %}
