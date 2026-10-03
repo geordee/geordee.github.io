@@ -4,7 +4,7 @@ permalink: /manifest.webmanifest
 ---
 {
   "name": {{ site.title | jsonify }},
-  "short_name": "gng",
+  "short_name": "Geordee",
   "description": {{ site.author.bio | jsonify }},
   "id": "/",
   "start_url": "/",
