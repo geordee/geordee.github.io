@@ -3,13 +3,13 @@ layout: master
 ---
 
 <section>
-  <div class="eight columns">
+  <article class="eight columns">
     <h1 class="post-title">{{ page.title }}</h1>
     <a href="/archives/"><time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time></a>
 
-    <article class="post-content">
+    <div class="post-content">
     {{ content }}
-    </article>
+    </div>
 
     <hr/>
 
@@ -23,6 +23,6 @@ layout: master
       {% endif %}
     </div>
 
-  </div>
+  </article>
   <br class="clear" />
 </section>
