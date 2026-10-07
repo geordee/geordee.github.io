@@ -14,12 +14,20 @@ author:
   bio: "Personal weblog of Geordee Naliyath, a technology enthusiast, writing since 2006 on software engineering, architecture, data, and AI."
 twitter:
   username: geordee
-  card: summary
+  card: summary_large_image
 social:
   links:
     - https://www.linkedin.com/in/geordee
     - https://github.com/geordee
     - https://twitter.com/geordee
+
+# Social card, used by jekyll-seo-tag for og:image and the structured data image.
+# Google's Rich Results Test flags a BlogPosting without one.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og.png
 
 # Build settings
 markdown:  kramdown
