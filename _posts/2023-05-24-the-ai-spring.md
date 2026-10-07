@@ -8,10 +8,10 @@ tags:
 ---
 We are living in the AI Spring.
 
-All the big players were holding back their research due to the experimental nature and rough edges of current implementations. OpenAI led one of the earliest moves, along with Stability.ai. Meta released LLaMA, a foundation model for natural language processing, under an open-source license. Stanford fine-tuned LLaMA and built Alpaca, which led to many other fine-tuning initiatives. IBM has released Watsonx. Baidu, Alibaba are testing their large language models. And probably Tencent too.
+All the big players were holding back their research due to the experimental nature and rough edges of current implementations. OpenAI led one of the earliest moves, along with Stability.ai. Meta released LLaMA, a foundation model for natural language processing, under an open-source licence. Stanford fine-tuned LLaMA and built Alpaca, which led to many other fine-tuning initiatives. IBM has released Watsonx. Baidu, Alibaba are testing their large language models. And probably Tencent too.
 
 ChatGPT and Midjourney's Discord interface made AI accessible to the public.
-The ecosystem is also getting a boost. Vector databases are in the news, which helps AI to search and retain context. We are discovering data labeling services, tools and providers.
+The ecosystem is also getting a boost. Vector databases are in the news, which helps AI to search and retain context. We are discovering data labelling services, tools and providers.
 
 > ChatGPT and Midjourney's Discord interface made AI accessible to the public. Bing and Bard followed.
 

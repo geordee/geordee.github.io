@@ -1,9 +1,7 @@
 <header>
-  <a href="{{ site.url }}">
-    <h1 class="logo">geordee</h1>
-  </a>
-  <div class="menubutton"><i class="fa fa-reorder"></i></div>
-  <nav>
+  <a href="{{ site.url }}" class="logo">geordee</a>
+  <button type="button" class="menubutton" aria-label="Menu" aria-expanded="false" aria-controls="site-nav">{% include icon.html name="bars" %}</button>
+  <nav id="site-nav">
     <ul>
       {% for page in site.pages %}
         {% if page.title %}

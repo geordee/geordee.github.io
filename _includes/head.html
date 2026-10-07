@@ -1,8 +1,7 @@
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>{% if page.title %}{{ site.title }} / {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo title=false %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
   {% if page.collection == "posts" %}
@@ -10,24 +9,8 @@
   {% endif %}
   <link rel="alternate" type="text/plain" title="llms.txt" href="{{ '/llms.txt' | prepend: site.baseurl | prepend: site.url }}">
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-702761-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-  
-    gtag('config', 'UA-702761-1');
-  </script>
-
-  <link href='//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,800' rel='stylesheet' type='text/css'>
-  <link href='//fonts.googleapis.com/css?family=Bangers' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/assets/stylesheets/application.css">
-
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-  <![endif]-->
+  <link rel="preload" href="/assets/fonts/open-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/stylesheets/application.css?v={{ site.time | date: '%s' }}">
 
   <link rel="icon" href="/assets/images/favicon.ico" sizes="any">
   <link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml">
@@ -35,4 +18,13 @@
   <link rel="manifest" href="/manifest.webmanifest">
   <meta name="theme-color" content="#8c7764">
   <meta name="apple-mobile-web-app-title" content="Geordee">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-E271DR1487"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-E271DR1487');
+  </script>
 </head>

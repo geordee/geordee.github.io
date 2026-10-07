@@ -5,48 +5,39 @@ layout: master
 {% for post in paginator.posts %}
   <section>
     <div class="eight columns">
-      <h4 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-      <a href="/archives/"><span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span></a>
-      <p>
+      <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      <a href="/archives/"><time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time></a>
+      <div class="excerpt">
         {{ post.content | truncatewords:100 }}
-      </p>
-      <a href="{{ post.url | prepend: site.baseurl }}"><button class="float-right">READ MORE</button></a>
+      </div>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="button float-right">Read more<span class="visually-hidden">: {{ post.title }}</span></a>
     </div>
     <br class="clear" />
   </section>
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
-<div class="pagination">
+<nav class="pagination" aria-label="Pages">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
-      <button class="light"><i class="fa fa-chevron-left"></i></button>
-    </a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button light" rel="prev" aria-label="Newer posts">{% include icon.html name="chevron-left" %}</a>
   {% else %}
-    <button class="light" disabled><i class="fa fa-circle"></i></button>
+    <span class="button light disabled">{% include icon.html name="circle" %}</span>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
-      <button>{{ page }}</button>
+      <span class="button" aria-current="page">{{ page }}</span>
     {% elsif page == 1 %}
-      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">
-        <button class="light">{{ page }}</button>
-      </a>
+      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}" class="button light" aria-label="Page {{ page }}">{{ page }}</a>
     {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">
-        <button class="light">{{ page }}</button>
-      </a>
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="button light" aria-label="Page {{ page }}">{{ page }}</a>
     {% endif %}
   {% endfor %}
 
-
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
-      <button class="light"><i class="fa fa-chevron-right"></i></button>
-    </a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button light" rel="next" aria-label="Older posts">{% include icon.html name="chevron-right" %}</a>
   {% else %}
-    <button class="light" disabled><i class="fa fa-circle"></i></button>
+    <span class="button light disabled">{% include icon.html name="circle" %}</span>
   {% endif %}
-</div>
+</nav>
 {% endif %}

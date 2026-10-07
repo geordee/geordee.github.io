@@ -9,7 +9,7 @@ tags:
 
 Information and Communications Technology is an engineering discipline. Compared to other engineering disciplines, computer science and software are fairly modern. So, they end up loaning words from the more traditional disciplines. We don't use the word architecture much in mechanical engineering, or electrical engineering. The most coveted word is design in those fields. But, when it comes to integrated circuits or information technology, we have architectures. The terms are analogous to building structures like buildings or systems like towns.
 
-However, this analogy is a simplification of what happens in reality. While using modern approaches to software development such simplification becomes a hindrance. Usually when we construct a building, we lay the foundation, build up the structure and finish the fittings. Only then we occupy it, or "use" it. This is the classical waterfall approach, as visualized using a Gantt chart.
+However, this analogy is a simplification of what happens in reality. While using modern approaches to software development such simplification becomes a hindrance. Usually when we construct a building, we lay the foundation, build up the structure and finish the fittings. Only then we occupy it, or "use" it. This is the classical waterfall approach, as visualised using a Gantt chart.
 
 Now consider a fruit tree. It starts producing fruits after a few years. But the most productive years are further away. So, every year it grows and produces fruit every season, even when it is not fully mature. Agile methods resemble this evolutionary model than a construction/waterfall model.
 

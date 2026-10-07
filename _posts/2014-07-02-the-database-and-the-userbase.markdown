@@ -11,7 +11,7 @@ In the Internet world there are only two valuable assets - the database and the 
 
 A few recent acquisitions by Google and similar companies underline this even more - two or three "red" underlines. Human curation of data is still important. We are yet to build a machine that beats human brain. Maybe Google is half-way through, but it took us so many technology-years to reach the half-way mark.
 
-And when you have the database, its potential is realized through a userbase. Without the userbase, the database is like money buried under the tree. It is not useful, and mostly it is going to be devalued over time.
+And when you have the database, its potential is realised through a userbase. Without the userbase, the database is like money buried under the tree. It is not useful, and mostly it is going to be devalued over time.
 
 Today, as I observe, getting the database coupled with the right userbase is the secret to the success of an internet business. Better, if the userbase owns the database. Crowdsourcing.
 

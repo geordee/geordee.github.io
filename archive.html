@@ -6,7 +6,7 @@ permalink: /archives/
 
 <section>
   <div class="eight columns">
-    <h4 class="post-title">Archives</h4>
+    <h1 class="post-title">Archives</h1>
   </div>
 
   <div class="archives">
@@ -15,12 +15,12 @@ permalink: /archives/
         {% for post in site.posts %}
 
           {% unless post.next %}
-            <h5 class="styled">{{ post.date | date: '%Y' }}</h5>
+            <li class="year"><h2 class="styled">{{ post.date | date: '%Y' }}</h2></li>
           {% else %}
             {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
             {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
             {% if year != nyear %}
-              <h5 class="styled">{{ post.date | date: '%Y' }}</h5>
+              <li class="year"><h2 class="styled">{{ post.date | date: '%Y' }}</h2></li>
             {% endif %}
           {% endunless %}
 
@@ -28,6 +28,7 @@ permalink: /archives/
         {% endfor %}
       </ul>
     </div>
+  </div>
 
   <br class="clear" />
 </section>

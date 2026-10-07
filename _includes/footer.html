@@ -2,8 +2,8 @@
   <div class="slate">
     <div class="eight columns">
       <div class="float-right">
-        <a href="https://www.linkedin.com/in/geordee"><button class="linkedin"><i class="fa fa-linkedin"></i></button></a>
-        <a href="https://github.com/geordee"><button class="github"><i class="fa fa-github"></i></button></a>
+        <a href="https://www.linkedin.com/in/geordee" class="button linkedin" aria-label="LinkedIn">{% include icon.html name="linkedin" %}</a>
+        <a href="https://github.com/geordee" class="button github" aria-label="GitHub">{% include icon.html name="github" %}</a>
         <span class="padder"></span>
       </div>
     </div>
@@ -14,9 +14,6 @@
     </div>
   </div>
 
-  <script src="//code.jquery.com/jquery-3.4.1.min.js"></script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.2.0/jquery.fitvids.min.js"></script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
-  <script src="/assets/javascripts/application.js"></script>
+  <script src="/assets/javascripts/application.js?v={{ site.time | date: '%s' }}" defer></script>
 
 </footer>

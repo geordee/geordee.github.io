@@ -15,4 +15,4 @@ The next phase would be performance. Hopefully, I would be improving my speed al
 
 This is true with any kind of learning. The basics is to get things right. The skills and the techniques. The next step is to practice is it long enough to build the muscle memory. And finally, the continuous improvement.
 
-Most of the times, we expect ourselves and others to perform without getting the basics right. Only if we realize which phase we (or our team members) are in, it is possible to respond, guide, manage accordingly.
+Most of the times, we expect ourselves and others to perform without getting the basics right. Only if we realise which phase we (or our team members) are in, it is possible to respond, guide, manage accordingly.

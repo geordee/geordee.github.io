@@ -21,4 +21,4 @@ The same thinking applies to commerce. Many agentic systems today try to automat
 
 What if AI's role were instead to curate, inspire, shortlist, or create a shopping list? This leaves the final say to humans where decisions and precision are required. That would take us much further, while laying a solid foundation for AI to operate responsibly and leaving room for new innovations to emerge.
 
-We should not try to pour new AI wine into old process casks. Let AI guide us toward new customer journeys, experiences, and ways of working.
+We should not try to pour new AI wine into old process casks. Let AI guide us towards new customer journeys, experiences, and ways of working.

@@ -2,6 +2,7 @@
 title: geord.ee
 email: geordee@gmail.com
 description: "Personal Weblog"
+lang: en_GB
 baseurl: ""
 url: "https://geord.ee"
 twitter_username: "geordee"

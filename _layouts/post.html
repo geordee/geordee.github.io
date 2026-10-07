@@ -4,7 +4,7 @@ layout: master
 
 <section>
   <div class="eight columns">
-    <h4 class="post-title"><a>{{ page.title }}</a></h4>
+    <h1 class="post-title">{{ page.title }}</h1>
     <a href="/archives/"><time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time></a>
 
     <article class="post-content">
@@ -14,12 +14,12 @@ layout: master
     <hr/>
 
     <div class="metadata">
-      <span><i class="fa fa-clock-o"></i><a>{{ page.date | date: "%b %-d, %Y" }}</a></span>
+      <span>{% include icon.html name="clock" %}{{ page.date | date: "%b %-d, %Y" }}</span>
       {% if page.author %}
-        <span><i class="fa fa-pencil"></i><a>{{ page.author }}</a></span>
+        <span>{% include icon.html name="pencil" %}{{ page.author }}</span>
       {% endif %}
       {% if page.categories %}
-        <span><i class="fa fa-bookmark-o"></i><a>{{ page.categories | array_to_sentence_string }}</a></span>
+        <span>{% include icon.html name="bookmark" %}{{ page.categories | array_to_sentence_string }}</span>
       {% endif %}
     </div>
 

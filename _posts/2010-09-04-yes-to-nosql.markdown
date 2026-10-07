@@ -7,7 +7,7 @@ categories: dw
 tags:
 ---
 
-I have been thinking about Workaday’s architecture, following Curt Monash’s post The Workday architecture — a new kind of OLTP software stack. What struck me most is the approach towards data storage. They boldy decided to forgo the conventional approach and is quite successful in that. Not that there is no comparable approaches in the past, the Curt’s coverage emphasizes the recent trend of applications stepping into the new territory commonly known as NoSQL.
+I have been thinking about Workaday’s architecture, following Curt Monash’s post The Workday architecture — a new kind of OLTP software stack. What struck me most is the approach towards data storage. They boldy decided to forgo the conventional approach and is quite successful in that. Not that there is no comparable approaches in the past, the Curt’s coverage emphasises the recent trend of applications stepping into the new territory commonly known as NoSQL.
 
 Attribute-value (or key-value) store is closer in spirit to the other growing trend of MapReduce implementations for data processing. Then there are document stores such as MongoDB and CouchDB, both supporting MapReduce. All these trends direct to an unmistakable future – escape from database overload, think beyond the two dimensions of rows and columns, take data structures (and life) as it comes!
 

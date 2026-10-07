@@ -9,7 +9,7 @@ tags:
 
 The world's knowledge is layered.
 
-There are industries that make metal, industries that make airplanes using that metal, and industries that operate airplanes. The travellers on these airplanes are in turn doing something else - producing and servicing various things across the world. There are people who build operating systems, people who build software tools, people who make applications using those tools and people who use applications and run businesses.
+There are industries that make metal, industries that make aeroplanes using that metal, and industries that operate aeroplanes. The travellers on these aeroplanes are in turn doing something else - producing and servicing various things across the world. There are people who build operating systems, people who build software tools, people who make applications using those tools and people who use applications and run businesses.
 
 There is hardly anyone who knows all the layers in a single supply-chain stack very well. But it may be a good idea to look into those adjacent layers to understand our own layer well.
 

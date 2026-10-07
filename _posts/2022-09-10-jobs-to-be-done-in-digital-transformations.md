@@ -18,7 +18,7 @@ Photographs served a purpose - to capture a moment, preserve it and share with o
 
 Change is the only constant, said the Greek philosopher. In technology, transformation is the constancy. Once a transformation wave is complete, we are pulled into the next wave of transformation. You either ride the wave or be dragged by it.
 
-Oftentimes, we start with the "digital transformation" initiatives with "design thinking", "customer personas" and "user journeys". The transformation aims to "simplify" the user journeys, improve "user experience", and provide "personalized offers". We collect "user voice", create "journey maps" and build "omnichannel" processes. Until a disruptive product appears in the context, in the form of cloud service, or an advanced AI-based solution, or a gaming platform, or a crypto-token. It is time to reset the stories and journeys and start all over again!
+Oftentimes, we start with the "digital transformation" initiatives with "design thinking", "customer personas" and "user journeys". The transformation aims to "simplify" the user journeys, improve "user experience", and provide "personalised offers". We collect "user voice", create "journey maps" and build "omnichannel" processes. Until a disruptive product appears in the context, in the form of cloud service, or an advanced AI-based solution, or a gaming platform, or a crypto-token. It is time to reset the stories and journeys and start all over again!
 
 Clay Christensen developed the theory of "Jobs to be Done" to complement the theory of "Disruptive Innovation". "Jobs to be Done" provides a framework to respond to innovations by examining the job that a product does to serve the customer.
 

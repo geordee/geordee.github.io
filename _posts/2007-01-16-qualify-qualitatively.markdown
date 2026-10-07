@@ -20,8 +20,8 @@ The dictionary defines quality as
 - A characteristic property that defines the apparent individual nature of something
 - Of superior grade
 
-A few synonyms for quality are caliber, character and select. These phrases and words give a more accurate definition – devoid of sales and marketing pressures – making us understand that quality is more of a character of products and processes than a set of methodologies and tools. ISO defines quality as degree to which a set of inherent characteristic fulfills requirements.
+A few synonyms for quality are calibre, character and select. These phrases and words give a more accurate definition – devoid of sales and marketing pressures – making us understand that quality is more of a character of products and processes than a set of methodologies and tools. ISO defines quality as degree to which a set of inherent characteristic fulfills requirements.
 
-In my opinion, achieving quality thus becomes part of work-culture. Methods and tools are important because it is difficult and time-consuming to permeate the concepts and organizational philosophies into individuals. However, those are just some means to and end, and the importance of quality as part of organization's culture should not be overlooked. The success of Toyota is not their methods or lean tools, but the quality that is instilled into organization's culture.
+In my opinion, achieving quality thus becomes part of work-culture. Methods and tools are important because it is difficult and time-consuming to permeate the concepts and organisational philosophies into individuals. However, those are just some means to and end, and the importance of quality as part of organisation's culture should not be overlooked. The success of Toyota is not their methods or lean tools, but the quality that is instilled into organisation's culture.
 
-Thus I would say, "make quality as the character of your organization or product and qualify your services (and products) to suit customer's requirements".
+Thus I would say, "make quality as the character of your organisation or product and qualify your services (and products) to suit customer's requirements".

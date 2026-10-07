@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Decentralized Data"
+title:      "Decentralised Data"
 date:       2022-12-17 21:44:18
 author:     geordee
 categories: blog thoughts
@@ -8,9 +8,9 @@ tags:
 ---
 Data mesh became too popular too quickly. I was listening to the [recent ThoughtWorks podcast on revisiting Data Mesh](https://www.thoughtworks.com/en-cn/insights/podcasts/technology-podcasts/data-mesh-revisited).
 
-> The essence of data mesh is decentralized management and value generation using data. 
+> The essence of data mesh is decentralised management and value generation using data. 
 
-The essence of data mesh is decentralized management and value generation using data. This is an important differentiation. It affects how we describe data using analogies.
+The essence of data mesh is decentralised management and value generation using data. This is an important differentiation. It affects how we describe data using analogies.
 
 One of the commonly used analogies is that "data is the new oil". This might help to describe large AI-driven initiatives, where large-scale data is mined, sourced, transported, stored and consumed constantly to build AI engines capable of producing general intelligence.
 

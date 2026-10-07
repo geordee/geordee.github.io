@@ -15,6 +15,6 @@ That's something too philosophical to come out from the character. It's a quote 
 
 Talented people are hard to find. They are hard to manage as well. But the biggest problem with the talented lot is to make them one with a team. In the height of their abilities, the biggest fear they face is that they are "powerful beyond measure" and they should not "shrink" in front of others. As their team-mates catch up with them, they start building a fortress around themselves or start building insecurity in others. They just can't afford to lose the top spot.
 
-Once Cruz realized that his fear is in not being able to let go, he was able to work on it and identify himself better with the team. He was okay to abide with the contracts and the rules.
+Once Cruz realised that his fear is in not being able to let go, he was able to work on it and identify himself better with the team. He was okay to abide with the contracts and the rules.
 
 Are you talented and take pride in your abilities and do you tend to bend the rules? Well, think twice. What's your deepest fear?

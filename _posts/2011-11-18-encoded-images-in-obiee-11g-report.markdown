@@ -7,7 +7,7 @@ categories: bi
 tags:
 ---
 
-Business Intelligence tools are not omnipotent. Different tools have different capabilities, and once the tool selection is over we generally live with what the tool can offer. In this context, I often suggest that the requirements gathering can be done in a tools context, both to ensure we can achieve what we want and to best utilize the tools capabilities. Once in a while, clients express a requirement that is just beyond the tools capabilities and we wish we could somehow push the boundaries a little.
+Business Intelligence tools are not omnipotent. Different tools have different capabilities, and once the tool selection is over we generally live with what the tool can offer. In this context, I often suggest that the requirements gathering can be done in a tools context, both to ensure we can achieve what we want and to best utilise the tools capabilities. Once in a while, clients express a requirement that is just beyond the tools capabilities and we wish we could somehow push the boundaries a little.
 
 Recently one of the clients asked whether they can display thumbnail images along with data in a tabular report. In OBIEE 11g it is very much possible using the data format of the column set to Image URL. We can format the column as a URL, but not as the image itself. This would mean the actual image needs to be hosted elsewhere, not as a large object in the database. The images could be stored in OBIEE server itself or on a different web server which is accessible by the users. Now, the client was not very excited! They did not want to store the image separately, especially considering the fact that these are only thumbnails, and they will keep on adding the records and associate thumbnails frequently.
 

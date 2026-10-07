@@ -9,7 +9,7 @@ tags:
 
 Currently I am reading a book named [Long-Range Forecasting – From Crystal Ball To Computer](https://books.google.co.in/books?id=7DAcAAAAIAAJ "Long-Range Forecasting: From Crystal Ball to Computer") (LRF). The author – [J Scott Armstrong](https://marketing.wharton.upenn.edu/profile/jscott/ "J Scott Armstrong") – begins by introducing a simple idea which he calls systems approach as the first lesson to be learned in forecasting. The approach is an elementary technique for analysis and planning. Many such important techniques in management have been known for decades or even centuries. We keep reinventing, repackaging and reselling!!!
 
-The systems approach helps in developing, evaluating & implementing projects (programs) with a holistic perspective. Quoting from LRF:
+The systems approach helps in developing, evaluating & implementing projects (programmes) with a holistic perspective. Quoting from LRF:
 
 > "The systems approach uses two basic ideas. First, one should examine objective before considering ways of solving a problem; and second, one should begin by describing the system in general terms before proceeding to the specific."
 
@@ -18,9 +18,9 @@ It helps to break down a problem into four generic steps:
 1. Identify objectives
 2. Develop indicators of success
 3. Generate alternative strategies, and
-4. Develop and select programs
+4. Develop and select programmes
 
-It is often found that the projects are executed without finalizing or understanding the objectives, postponing the definition of validation mechanisms and not considering the alternative strategies and designs. I have seen this happening among managers while estimation and planning, designers while creating systems architectures, and software developers while coding the foundation modules (I was also a partaker). I have worked in a couple of projects that did not have any purpose but to exhaust the budget or justify some previous mistakes/investment.
+It is often found that the projects are executed without finalising or understanding the objectives, postponing the definition of validation mechanisms and not considering the alternative strategies and designs. I have seen this happening among managers while estimation and planning, designers while creating systems architectures, and software developers while coding the foundation modules (I was also a partaker). I have worked in a couple of projects that did not have any purpose but to exhaust the budget or justify some previous mistakes/investment.
 
 These real experiences helped me to appreciate the basic steps illustrated by Armstrong in a very simple, but striking manner. Here's an excerpt for easy recollection.
 

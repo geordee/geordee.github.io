@@ -1,3 +1,28 @@
+/* fonts, self-hosted, latin subset (Google Fonts, SIL Open Font License) */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/assets/fonts/open-sans-latin.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/assets/fonts/open-sans-italic-latin.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Bangers';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/assets/fonts/bangers-latin.woff2) format('woff2');
+}
+
 /* css reset */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -200,6 +225,26 @@ input, textarea {
   padding: 20px;
 }
 
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* icons, inline SVG */
+.icon {
+  width: 1em;
+  height: 1em;
+  fill: currentColor;
+  vertical-align: -0.125em;
+}
+
 /* typography */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, "Lucida Grande", sans-serif;
@@ -227,19 +272,23 @@ strong  { font-weight: bold;}
 .highlight { background: #ff6644; padding: 0 5px; color:  #fff; }
 
 header .logo, footer .logo {
+  display: block;
+  font-size: 32px;
+  line-height: 1;
+  margin-bottom: 14px;
   font-family: 'Bangers', 'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: bold;
 }
 
-/* buttons */
-button {
+/* buttons, and links styled as buttons */
+button, .button {
   display: inline-block;
   border: 0;
   outline: 0;
   margin: 0;
   padding: 15px;
   height: 44px;
-  background: #a6907c;
+  background: #7d6a58;
   color: #fff;
   font: 14px/14px 'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: bold;
@@ -256,25 +305,30 @@ button {
   box-shadow: 0 1px 2px rgba(0,0,0,.15);
 }
 
-button:hover {
-  background: #8c7764;
+a.button, a.button:visited, a.button:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+button:hover, a.button:hover {
+  background: #6b5a4a;
   -webkit-transition:all .25s ease-in-out;
   -moz-transition:all .25s ease-in-out;
   -o-transition:all .25s ease-in-out;
   transition:all .25s ease-in-out;
 }
 
-button:active {
-  background: #806f64;
+button:active, a.button:active {
+  background: #5e4f41;
 }
 
-button.light {
+.button.light, a.button.light:visited {
   background: #fff;
   color: #555759;
 }
 
-button.light:hover {
-  background: #a6907c;
+a.button.light:hover {
+  background: #7d6a58;
   color: #fff;
 }
 
@@ -311,7 +365,7 @@ header nav ul li {
 header nav ul li a, header nav ul li a:visited, header nav ul li.search {
   font-size: 14px;
   font-weight: bold;
-  color: #aaa28c;
+  color: #6f6658;
   text-transform: uppercase;
   cursor: pointer;
   position: relative;
@@ -319,7 +373,7 @@ header nav ul li a, header nav ul li a:visited, header nav ul li.search {
 }
 
 header nav ul li a:hover, header nav ul li.search:hover {
-  color: #fff;
+  color: #ff6644;
   -webkit-transition:color .25s ease-in-out;
   -moz-transition:color .25s ease-in-out;
   -o-transition:color .25s ease-in-out;
@@ -330,7 +384,11 @@ header nav ul li a:hover, header nav ul li.search:hover {
 header .menubutton {
   display: none;
   float: right;
-  color: #aaa28c;
+  height: auto;
+  padding: 0;
+  background: none;
+  box-shadow: none;
+  color: #6f6658;
   cursor: pointer;
   font-size: 24px;
   line-height: 24px;
@@ -381,7 +439,7 @@ section .post-date {
   text-align: right;
   font-weight: bold;
   font-size: 16px;
-  color: #d7d7d7;
+  color: #7d7366;
   text-transform: uppercase;
   -webkit-transition:color .25s ease-in-out;
   -moz-transition:color .25s ease-in-out;
@@ -394,6 +452,7 @@ section .post-date:hover {
 }
 
 section .post-title {
+  font-size: 16px;
   margin-bottom: 30px;
   max-width: 80%;
 }
@@ -408,6 +467,11 @@ section .post-intro {
 
 section button {
   margin: 0;
+}
+
+/* section headings within a post, set at the size the old h5 headings had */
+.post-content h2 {
+  font-size: 14px;
 }
 
 /* post types */
@@ -461,7 +525,7 @@ blockquote {
   margin: 10px 0 30px 0;
   border-left: 10px solid #a6907c;
   font-size: 18px;
-  color: #838689;
+  color: #6b6e71;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
       box-sizing: border-box;
@@ -475,10 +539,10 @@ blockquote {
 
 .metadata span {
   display: block;
-  color: #888;
+  color: #737373;
 }
 
-.metadata i {
+.metadata .icon {
   margin-right: 20px;
 }
 
@@ -489,17 +553,13 @@ blockquote {
   text-align: center;
 }
 
-.pagination button {
+.pagination .button {
   margin-bottom: 5px;
 }
 
-.pagination button:disabled {
+.pagination .button.disabled {
   color: #bababa;
-  margin-bottom: 5px;
-}
-
-.pagination button:hover:disabled {
-  background: #ddd;
+  cursor: default;
 }
 
 /* archives */
@@ -519,6 +579,7 @@ blockquote {
 /* styled archives elements */
 .archives .styled {
   display: block;
+  font-size: 14px;
   background: url('/assets/images/circle.png') no-repeat left;
   margin-top: 40px;
   margin-left: -50px;
@@ -555,62 +616,27 @@ footer h4, footer h5, footer h6 {
 }
 
 /* social buttons */
-button.facebook, button.twitter, button.linkedin, button.google-plus, button.github {
+.button.linkedin, .button.github {
   height: 40px;
   width: 40px;
   padding: 13px;
   margin-bottom: 5px;
 }
 
-button.facebook {
-  background: #3b5998;
-}
-
-button.facebook:hover {
-  background: #2d4577;
-}
-
-button.twitter {
-  background: #33ccff;
-}
-
-button.twitter:hover {
-  background: #19abdc;
-}
-
-button.linkedin {
+.button.linkedin {
   background: #4875b4;
 }
 
-button.linkedin:hover {
+a.button.linkedin:hover {
   background: #204c8b;
 }
 
-button.google-plus {
-  background: #dc453c;
+.button.github {
+  background: #666666;
 }
 
-button.google-plus:hover {
-  background: #d73d32;
-}
-
-button.github {
-  background: #777777;
-}
-
-button.github:hover {
-  background: #555555;
-}
-
-button.links {
-  height: 40px;
-  padding: 13px;
-  margin-bottom: 5px;
-  background: #ff6644;
-}
-
-button.links:hover {
-  background: #c93c1d;
+a.button.github:hover {
+  background: #444444;
 }
 
 
@@ -640,6 +666,10 @@ button.links:hover {
     width: 100%;
     float: left;
     margin-top: 10px;
+  }
+
+  header nav.open {
+    display: block;
   }
 
   header nav ul li {

@@ -17,12 +17,12 @@ Or in other words, just as software encapsulates the hardware, the information s
 
 The impact is going to be huge. Let us take an example of a restaurant menu. Not so long ago, I was in Dubai, staying away from my family. Eating out and ordering food was part of my routine. What I had was a box full of menu cards. On a bored weekend, going through this menu cards was like reading a short novel.
 
-If the menu cards were digitized, and if they told me about the characteristics of the items, the cuisine, the flavour, the heat, the rating and so on, it would have been easy for me to find what I wanted. If the menu card was available as an information service... If the restaurants covered themselves with information...
+If the menu cards were digitised, and if they told me about the characteristics of the items, the cuisine, the flavour, the heat, the rating and so on, it would have been easy for me to find what I wanted. If the menu card was available as an information service... If the restaurants covered themselves with information...
 
 Code Halos go one step further. If I am covered with information, can an intersection between my code halo and restaurant's code halo order me the right food? I think that is a bit too futuristic when dealing with "human code halos". It might be true when it comes to my house's code halo and the electricity company code halo.
 
 This is going to be everywhere, not just about restaurant menus. Books had gone ahead. Amazon and Google took books to the digital world. Hotels have been there for a long long time. Local businesses and places are getting covered with information.
 
-The next step would be allowing the information services to interact with each other. If I am traveling to the other end of the city during lunch time, can I get information regarding public transport from one service and a good place to eat from another service using some kind of interconnect? Not just a mashup.
+The next step would be allowing the information services to interact with each other. If I am travelling to the other end of the city during lunch time, can I get information regarding public transport from one service and a good place to eat from another service using some kind of interconnect? Not just a mashup.
 
 The possibilities are limitless. It's going to be an Information Services era ahead.
