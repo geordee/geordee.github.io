@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Driving Software"
-date:       2026-10-07 22:18:05
+date:       2026-10-07 22:18:05 +0100
 author:     geordee
 categories: blog thoughts
 tags:
