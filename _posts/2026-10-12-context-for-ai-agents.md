@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Context for AI Agents"
-date:       2026-10-12 22:30:00 +0100
+date:       2026-10-12 22:30:00
 author:     geordee
 categories: blog thoughts
 tags:
