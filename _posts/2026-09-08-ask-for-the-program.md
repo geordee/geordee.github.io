@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Ask for the Program, Not the Answer"
+title:      "Ask for the Program"
 date:       2026-09-08 08:13:12
 author:     geordee
 categories: blog thoughts
