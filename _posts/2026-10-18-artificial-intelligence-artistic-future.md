@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Artificial Intelligence, Artistic Future"
-date:       2026-10-18 21:32:02
+date:       2026-10-18 11:35:00 +0100
 author:     geordee
 categories: blog thoughts
 tags:
